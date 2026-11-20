@@ -1,0 +1,8 @@
+{
+  "client_id": "https://b1829999.github.io/logic-sound-cue-oauth/client-metadata.json",
+  "client_name": "Logic Sound Cue Studio",
+  "redirect_uris": ["http://127.0.0.1:8768/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
